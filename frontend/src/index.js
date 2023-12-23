@@ -4,8 +4,7 @@ import {
   createBrowserRouter,
   createRoutesFromElements,
   Route,
-  RouteProvider,
-  RouterProvider
+  RouterProvider,
 } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './index.css';
